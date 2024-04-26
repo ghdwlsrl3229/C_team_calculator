@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("HI");
-        System.out.println("jongnam");
     }
 
     public int getSumSum(int a, int b, int c){
